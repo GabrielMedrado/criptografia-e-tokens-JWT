@@ -9,5 +9,8 @@
   "author": "",
   "license": "ISC",
   "type": "module",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
 }
